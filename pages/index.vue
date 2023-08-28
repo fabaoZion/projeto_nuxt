@@ -1,7 +1,10 @@
 <template>
+  <div>
+    <h1><strong>Portifolio Fabio Humberto de Carvalho</strong></h1>
     <li>
     <NuxtLink to="/about">Sobre</NuxtLink>
    </li>
+  </div>
 </template>
 <style>
 
